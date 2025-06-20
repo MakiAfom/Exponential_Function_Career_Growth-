@@ -1,4 +1,6 @@
 📘 You Can't Pour From an Empty Cup – A Math Analogy to AI Learning
+
+
 In a time where AI dominates conversations — from casual chats at the bank to strategic discussions with recruiters — it's easy to feel overwhelmed. The idea that "AI will replace jobs" is everywhere. But through reflection, I’ve found clarity in a simple, powerful truth:
 
 🌱 AI won't replace you. But someone who knows how to use AI might.
